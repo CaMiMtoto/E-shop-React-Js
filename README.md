@@ -1,10 +1,9 @@
 # E-shop
 
-## Description
-
-This is a simple e-shop application . It is a project for an imaginary shop, which sells products online. The product is
-a book. The application is written in React Js and uses Firebase as it's back end.
-the project was created with vite and uses tailwind and bootstrap for styling.
+This is a simple e-shop application . It is a project for an imaginary shop, which sells products online. The
+application is written in [React Js](https://reactjs.org/) and uses [Firebase](https://firebase.google.com/) as it's back end.
+the project was created with [vite](https://vitejs.dev/)  and uses [tailwind](https://tailwindcss.com/)
+and [bootstrap 5](https://getbootstrap.com/) for styling.
 
 ## Installation
 
